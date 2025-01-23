@@ -18,7 +18,7 @@ Ensure you have the following tools installed on your system:
 Clone this repository and navigate to its directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DINESH359/Holosecurity.git
 cd holosecurity
 ```
 
